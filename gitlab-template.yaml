@@ -310,7 +310,7 @@ objects:
           deploymentconfig: redis
       spec:
         containers:
-        - image: sameersbn/redis
+        - image: gitlab/redis
           imagePullPolicy: Always
           name: redis
           ports:
