@@ -41,7 +41,7 @@ objects:
       app: redis
     name: redis
   spec:
-    dockerImageRepository: sameersbn/redis
+    dockerImageRepository: gitlab/redis
   status:
     dockerImageRepository: ""
 - apiVersion: v1
