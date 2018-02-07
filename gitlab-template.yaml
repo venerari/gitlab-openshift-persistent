@@ -17,7 +17,7 @@ objects:
       app: gitlab
     name: gitlab
   spec:
-    dockerImageRepository: sameersbn/gitlab
+    dockerImageRepository: gitlab/gitlab-ce
   status:
     dockerImageRepository: ""
 - apiVersion: v1
